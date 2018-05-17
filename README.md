@@ -4,5 +4,5 @@
 
 主要界面如下：
 
-![Image text](https://github.com/gb1998/shop/blob/master/WebContent/images/goods/15.jpg)
+![Image text](https://github.com/gb1998/shop/blob/master/WebContent/images/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.png)
 
