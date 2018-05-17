@@ -4,3 +4,5 @@
 
 主要界面如下：
 
+![Image text](https://github.com/gb1998/shop/blob/master/WebContent/images/goods/15.jpg)
+
