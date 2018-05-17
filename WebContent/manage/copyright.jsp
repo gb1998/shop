@@ -11,6 +11,6 @@
         <td height="19" align="center"> All CopyRights &copy; reserved 2018 吉首大学软件学院</td>
       </tr>
       <tr>
-        <td height="21" align="center">客服热线：04388881-84978981  E-mail：mingrisoft@mingrisoft.com</td>
+          <td height="21" align="center">客服热线：0438881-84978981</td>
       </tr>
     </table>
